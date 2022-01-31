@@ -1,3 +1,12 @@
+/**
+ * Main
+ * Objetivo: diferentes funcionalidades del vector
+ * 
+ * @author Carlos Martinez
+ * @author Paulo Sánchez
+ * @author Carlos Estrada 
+ * @version 1.0 finalizado 01/02/2022
+ */
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;

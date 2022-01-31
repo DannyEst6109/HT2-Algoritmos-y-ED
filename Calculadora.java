@@ -1,4 +1,12 @@
-
+/**
+ * Calculadora
+ * Objetivo: Hacer las funcionalidades de suma, resta, division y multiplicación
+ * 
+ * @author Carlos Martinez
+ * @author Paulo Sánchez
+ * @author Carlos Estrada 
+ * @version 1.0 finalizado 01/02/2022
+ */
 public class Calculadora implements Calculator {
 
 	@Override
